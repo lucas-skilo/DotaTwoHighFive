@@ -1,0 +1,59 @@
+about match details:
+	game_mode:
+		0 - None
+		1 - All Pick
+		2 - Captain's Mode
+		3 - Random Draft
+		4 - Single Draft
+		5 - All Random
+		6 - Intro
+		7 - Diretide
+		8 - Reverse Captain's Mode
+		9 - The Greeviling
+		10 - Tutorial
+		11 - Mid Only
+		12 - Least Played
+		13 - New Player Pool
+		14 - Compendium Matchmaking
+		16 - Captains Draft
+		22 - Ranked All Pick
+
+		useful game_mode list:
+			for ranked games:
+				2 - Captain's Mode
+				3 - Random Draft
+				22 - Ranked All Pick
+
+			for unranked games:
+				1 - All Pick
+				2 - Captain's Mode
+				3 - Random Draft
+
+	lobby_type:
+		-1 - Invalid
+		0 - Public matchmaking
+		1 - Practise
+		2 - Tournament
+		3 - Tutorial
+		4 - Co-op with bots.
+		5 - Team match
+		6 - Solo Queue
+		7 - Ranked Matchmaking
+		8 - 1v1 Solo Mid
+
+		useful lobby_type list:
+			0 - Public matchmaking
+			7 - Ranked Matchmaking
+
+about player:
+	leaver_status:
+		0 - NONE - finished match, no abandon.
+		1 - DISCONNECTED - player DC, no abandon.
+		2 - DISCONNECTED_TOO_LONG - player DC > 5min, abandoned.
+		3 - ABANDONED - player DC, clicked leave, abandoned.
+		4 - AFK - player AFK, abandoned.
+		5 - NEVER_CONNECTED - player never connected, no abandon.
+		6 - NEVER_CONNECTED_TOO_LONG - player took too long to connect, no abandon.
+
+		useful leaver_status list:
+			0 - NONE

@@ -1,0 +1,8 @@
+C:\Users\Lucas\Documents\Programming\Dota Two High Five\CS\Dota Two High Five\Dota Two High Five\bin\Debug\Dota Two High Five.exe.config
+C:\Users\Lucas\Documents\Programming\Dota Two High Five\CS\Dota Two High Five\Dota Two High Five\bin\Debug\Dota Two High Five.exe
+C:\Users\Lucas\Documents\Programming\Dota Two High Five\CS\Dota Two High Five\Dota Two High Five\bin\Debug\Dota Two High Five.pdb
+C:\Users\Lucas\Documents\Programming\Dota Two High Five\CS\Dota Two High Five\Dota Two High Five\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lucas\Documents\Programming\Dota Two High Five\CS\Dota Two High Five\Dota Two High Five\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lucas\Documents\Programming\Dota Two High Five\CS\Dota Two High Five\Dota Two High Five\obj\Debug\Dota Two High Five.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Programming\Dota Two High Five\CS\Dota Two High Five\Dota Two High Five\obj\Debug\Dota Two High Five.exe
+C:\Users\Lucas\Documents\Programming\Dota Two High Five\CS\Dota Two High Five\Dota Two High Five\obj\Debug\Dota Two High Five.pdb
