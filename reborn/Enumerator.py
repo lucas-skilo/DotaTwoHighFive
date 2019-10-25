@@ -1,6 +1,7 @@
 import math
 
-class Enumerator:
+class Enumerator(object):
+    
     def __init__(self, total):
         self.total = total
 
@@ -12,8 +13,8 @@ class Enumerator:
         if heroes_count < 1 or heroes_count > 5:
             raise Exception("Hero count is invalid ({})".format(heroes_count))
 
-        hero_ids = [ 0, 0, 0, 0, 0, 0 ]
-        hero_minimum_id = [ 1, 1, 1, 1, 1, 1]
+        hero_ids = [0, 0, 0, 0, 0, 0 ]
+        hero_minimum_id = [1, 1, 1, 1, 1, 1]
         result = 0
 
         for i in range(0, heroes_count):
